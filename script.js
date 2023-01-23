@@ -79,6 +79,7 @@
     let info = prompt('Какую информацию хотите узнать о пользователе?');
     alert(user[info]); 
     
+    
 // task 10
     let yourName = String(prompt("Ну и как тя звать-то ?"));
     alert(`Результат выполнения задания 10: О, так ты у нас ${yourName}`);
